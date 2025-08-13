@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuDev-Fr.
 - 👀 I’m interested in development, so I think being at the right place :smile:.
-- 🌱 I’m currently learning Go.
+- 🌱 I’m currently learning Elixir.
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📫 How to reach me : ...
 
